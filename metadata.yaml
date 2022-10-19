@@ -1,0 +1,37 @@
+_repo: The-isle-of-dead-ships_69065
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McKernan, Frank
+    alias: McKernan, F. (Frank)
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '37708'
+    url: http://www.gutenberg.org/2009/agents/37708
+creator:
+  author:
+    agent_name: Marriott, Crittenden
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '55073'
+    url: http://www.gutenberg.org/2009/agents/55073
+description: ''
+gutenberg_issued: '2022-09-29'
+identifiers:
+  gutenberg: '69065'
+language: en
+pgterms:marc904: https://archive.org/details/isleofdeadships00marr/page/264/mode/2up
+pgterms:marc905: 20211105104042marriott
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: United States :J. B. Lippincott Company,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The isle of dead ships
+url: http://www.gutenberg.org/ebooks/69065
