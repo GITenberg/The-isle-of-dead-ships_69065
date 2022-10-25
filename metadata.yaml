@@ -8,6 +8,9 @@ contributor:
     deathdate: 1934
     gutenberg_agent_id: '37708'
     url: http://www.gutenberg.org/2009/agents/37708
+covers:
+- cover_type: archival
+  image_path: 69065-h/images/cover.jpg
 creator:
   author:
     agent_name: Marriott, Crittenden
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '55073'
     url: http://www.gutenberg.org/2009/agents/55073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69065#The-isle-of-dead-ships
 gutenberg_issued: '2022-09-29'
 identifiers:
   gutenberg: '69065'
